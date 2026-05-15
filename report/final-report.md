@@ -280,7 +280,7 @@ remote-ai-network-gateway/
 The `.env` file containing the Anthropic API key is intentionally excluded from GitHub.
 
 **GitHub Repository Link:**  
-**[Insert GitHub repository link here]**
+https://github.com/joshh61/remote-ai-network-gateway
 
 ---
 
