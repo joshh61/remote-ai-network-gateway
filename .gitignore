@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment / secrets
+.env
+*.key
+
+# macOS
+.DS_Store
+
+# Reports / temporary files
+*.tmp
